@@ -13,37 +13,14 @@ a.get('http://tango.matchanalysis.com/index.jsp') do |page|
 
   # Submit the login form
   my_page = page.form_with(:name => 'login') do |f|
-    f.field_with(:id => "j_username").value = 'egehrig'
-    f.field_with(:id => "j_password").value = 'look888'
-  end.submit
+    f.j_username  = 'egehrig'
+    f.j_password  = 'look888'
+  end.click_button
 
-  form = my_page.forms.first
-
-  final = form.submit
-
-  a.get('http://tango.matchanalysis.com/players.jsp?statset=0-0-0-400') do |page|
-
-    # all = page.search("//table/tbody/tr/td")
-
-    # if(all.first != nil)
-    #   all = all.first.inner_html.split('<br>')
-    # else
-    #   break
-    # end
-
-    # puts "name is: "+all[2]+"\n"
-    
-    # entry['name'] = all[2]
-
-    # all.each do |email| 
-
-    #   if email.index('@') && email != 'nomail@ehl.ch'
-    #     insertContact email, entry
-    #     break
-    #   end
-
-    # end
-
+  my_page.links.each do |link|
+    text = link.text.strip
+    next unless text.length > 0
+    puts text
   end
 
 end
