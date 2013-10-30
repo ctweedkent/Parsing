@@ -39,20 +39,9 @@ a.get('http://tango.matchanalysis.com/index.jsp') do |page|
     f.j_password  = 'look888'
   end.click_button
 
-  a.get('http://tango.matchanalysis.com/players.jsp?statset=0-0-0-1') do |player_page|
+  a.get('http://tango.matchanalysis.com/match-player.jsp?matchid=126&personid=216&teamid=&statset=0-0-0-1') do |player_page|
 
-    player_page.links.each do |link|
-      text = link.text.strip
-      next unless text.length > 0
-      tempId = link.href.split('?personid=')[1]
-      if(tempId == nil)
-        next
-      end
-      entry = {}
-      entry['id'] = tempId.split('&statset=')[0]
-      entry['name'] = link.text
-      insertContact(entry)
-    end
+    
 
   end
 
