@@ -1,0 +1,1540 @@
+{
+  "doc": {
+    "-teamid": "0",
+    "-matchid": "0",
+    "-personid": "0",
+    "-mintouches": "30",
+    "-startat": "0",
+    "-perpage": "99999999",
+    "ROWSET": {
+      "ROW": [
+        {
+          "-num": "1",
+          "personid": "406",
+          "name": "Peter Vagenas",
+          "lastname": "Vagenas",
+          "value": "80.6"
+        },
+        {
+          "-num": "2",
+          "personid": "419",
+          "name": "Richie Williams",
+          "lastname": "Williams",
+          "value": "79.8"
+        },
+        {
+          "-num": "3",
+          "personid": "331",
+          "name": "Pablo Mastroeni",
+          "lastname": "Mastroeni",
+          "value": "78.9"
+        },
+        {
+          "-num": "4",
+          "personid": "271",
+          "name": "Ronnie Ekelund",
+          "lastname": "Ekelund",
+          "value": "78.6"
+        },
+        {
+          "-num": "5",
+          "personid": "367",
+          "name": "Brandon Prideaux",
+          "lastname": "Prideaux",
+          "value": "78.5"
+        },
+        {
+          "-num": "6",
+          "personid": "385",
+          "name": "Carlos Semedo",
+          "lastname": "Semedo",
+          "value": "77.5"
+        },
+        {
+          "-num": "7",
+          "personid": "250",
+          "name": "Mauricio Cienfuegos",
+          "lastname": "Cienfuegos",
+          "value": "77.5"
+        },
+        {
+          "-num": "8",
+          "personid": "240",
+          "name": "Mike Burns",
+          "lastname": "Burns",
+          "value": "77.0"
+        },
+        {
+          "-num": "9",
+          "personid": "346",
+          "name": "Bryan Namoff",
+          "lastname": "Namoff",
+          "value": "76.7"
+        },
+        {
+          "-num": "10",
+          "personid": "356",
+          "name": "Raul Palacios",
+          "lastname": "Palacios",
+          "value": "76.6"
+        },
+        {
+          "-num": "11",
+          "personid": "395",
+          "name": "Jordan Stone",
+          "lastname": "Stone",
+          "value": "76.5"
+        },
+        {
+          "-num": "12",
+          "personid": "425",
+          "name": "Kerry Zavagnin",
+          "lastname": "Zavagnin",
+          "value": "76.2"
+        },
+        {
+          "-num": "13",
+          "personid": "226",
+          "name": "Imad Baba",
+          "lastname": "Baba",
+          "value": "76.2"
+        },
+        {
+          "-num": "14",
+          "personid": "286",
+          "name": "Francisco Gomez",
+          "lastname": "Gomez",
+          "value": "76.0"
+        },
+        {
+          "-num": "15",
+          "personid": "407",
+          "name": "Carlos Valderrama",
+          "lastname": "Valderrama",
+          "value": "75.7"
+        },
+        {
+          "-num": "16",
+          "personid": "279",
+          "name": "Robin Fraser",
+          "lastname": "Fraser",
+          "value": "75.6"
+        },
+        {
+          "-num": "17",
+          "personid": "218",
+          "name": "Lazo Alavanja",
+          "lastname": "Alavanja",
+          "value": "75.4"
+        },
+        {
+          "-num": "18",
+          "personid": "327",
+          "name": "Jesse Marsch",
+          "lastname": "Marsch",
+          "value": "75.4"
+        },
+        {
+          "-num": "19",
+          "personid": "381",
+          "name": "Chris Roner",
+          "lastname": "Roner",
+          "value": "75.0"
+        },
+        {
+          "-num": "20",
+          "personid": "294",
+          "name": "Wes Hart",
+          "lastname": "Hart",
+          "value": "74.9"
+        },
+        {
+          "-num": "21",
+          "personid": "225",
+          "name": "Shaker Asad",
+          "lastname": "Asad",
+          "value": "74.7"
+        },
+        {
+          "-num": "22",
+          "personid": "364",
+          "name": "Eddie Pope",
+          "lastname": "Pope",
+          "value": "74.6"
+        },
+        {
+          "-num": "23",
+          "personid": "264",
+          "name": "Chad Deering",
+          "lastname": "Deering",
+          "value": "74.2"
+        },
+        {
+          "-num": "24",
+          "personid": "299",
+          "name": "Steven Herdsman",
+          "lastname": "Herdsman",
+          "value": "73.9"
+        },
+        {
+          "-num": "25",
+          "personid": "380",
+          "name": "Jorge Rodriguez",
+          "lastname": "Rodriguez",
+          "value": "73.8"
+        },
+        {
+          "-num": "26",
+          "personid": "243",
+          "name": "Danny Califf",
+          "lastname": "Califf",
+          "value": "73.8"
+        },
+        {
+          "-num": "27",
+          "personid": "312",
+          "name": "Ritchie Kotschau",
+          "lastname": "Kotschau",
+          "value": "73.7"
+        },
+        {
+          "-num": "28",
+          "personid": "272",
+          "name": "Simon Elliott",
+          "lastname": "Elliott",
+          "value": "73.5"
+        },
+        {
+          "-num": "29",
+          "personid": "230",
+          "name": "Kyle Beckerman",
+          "lastname": "Beckerman",
+          "value": "73.4"
+        },
+        {
+          "-num": "30",
+          "personid": "238",
+          "name": "Chris Brunt",
+          "lastname": "Brunt",
+          "value": "73.4"
+        },
+        {
+          "-num": "31",
+          "personid": "282",
+          "name": "Nick Garcia",
+          "lastname": "Garcia",
+          "value": "73.1"
+        },
+        {
+          "-num": "32",
+          "personid": "223",
+          "name": "Chris Armas",
+          "lastname": "Armas",
+          "value": "73.0"
+        },
+        {
+          "-num": "33",
+          "personid": "217",
+          "name": "Jeff Agoos",
+          "lastname": "Agoos",
+          "value": "72.9"
+        },
+        {
+          "-num": "34",
+          "personid": "305",
+          "name": "Steve Jolley",
+          "lastname": "Jolley",
+          "value": "72.8"
+        },
+        {
+          "-num": "35",
+          "personid": "387",
+          "name": "Musa Shannon",
+          "lastname": "Shannon",
+          "value": "72.7"
+        },
+        {
+          "-num": "36",
+          "personid": "249",
+          "name": "Mark Chung",
+          "lastname": "Chung",
+          "value": "72.7"
+        },
+        {
+          "-num": "37",
+          "personid": "363",
+          "name": "Alex Pineda Chacon",
+          "lastname": "Pineda Chacon",
+          "value": "72.6"
+        },
+        {
+          "-num": "38",
+          "personid": "339",
+          "name": "Jeff Moore",
+          "lastname": "Moore",
+          "value": "72.5"
+        },
+        {
+          "-num": "39",
+          "personid": "357",
+          "name": "Oscar Pareja",
+          "lastname": "Pareja",
+          "value": "72.5"
+        },
+        {
+          "-num": "40",
+          "personid": "253",
+          "name": "Jimmy Conrad",
+          "lastname": "Conrad",
+          "value": "72.4"
+        },
+        {
+          "-num": "41",
+          "personid": "358",
+          "name": "Ross Paule",
+          "lastname": "Paule",
+          "value": "72.3"
+        },
+        {
+          "-num": "42",
+          "personid": "269",
+          "name": "Nick Downing",
+          "lastname": "Downing",
+          "value": "71.6"
+        },
+        {
+          "-num": "43",
+          "personid": "348",
+          "name": "Peter Nowak",
+          "lastname": "Nowak",
+          "value": "71.6"
+        },
+        {
+          "-num": "44",
+          "personid": "468",
+          "name": "Justin Mapp",
+          "lastname": "Mapp",
+          "value": "71.4"
+        },
+        {
+          "-num": "45",
+          "personid": "336",
+          "name": "Ivan McKinley",
+          "lastname": "McKinley",
+          "value": "71.4"
+        },
+        {
+          "-num": "46",
+          "personid": "347",
+          "name": "Ryan Nelsen",
+          "lastname": "Nelsen",
+          "value": "71.4"
+        },
+        {
+          "-num": "47",
+          "personid": "410",
+          "name": "Sasha Victorine",
+          "lastname": "Victorine",
+          "value": "71.4"
+        },
+        {
+          "-num": "48",
+          "personid": "256",
+          "name": "Leo Cullen",
+          "lastname": "Cullen",
+          "value": "71.3"
+        },
+        {
+          "-num": "49",
+          "personid": "313",
+          "name": "Dema Kovalenko",
+          "lastname": "Kovalenko",
+          "value": "71.2"
+        },
+        {
+          "-num": "50",
+          "personid": "409",
+          "name": "Peter Vermes",
+          "lastname": "Vermes",
+          "value": "71.0"
+        },
+        {
+          "-num": "51",
+          "personid": "280",
+          "name": "Adam Frye",
+          "lastname": "Frye",
+          "value": "71.0"
+        },
+        {
+          "-num": "52",
+          "personid": "298",
+          "name": "Ezra Hendrickson",
+          "lastname": "Hendrickson",
+          "value": "71.0"
+        },
+        {
+          "-num": "53",
+          "personid": "295",
+          "name": "Kevin Hartman",
+          "lastname": "Hartman",
+          "value": "71.0"
+        },
+        {
+          "-num": "54",
+          "personid": "393",
+          "name": "Jeff Stewart",
+          "lastname": "Stewart",
+          "value": "70.9"
+        },
+        {
+          "-num": "55",
+          "personid": "540",
+          "name": "Nelson Akwari",
+          "lastname": "Akwari",
+          "value": "70.8"
+        },
+        {
+          "-num": "56",
+          "personid": "379",
+          "name": "Eddie Robinson",
+          "lastname": "Robinson",
+          "value": "70.7"
+        },
+        {
+          "-num": "57",
+          "personid": "220",
+          "name": "Chino Alegria",
+          "lastname": "Alegria",
+          "value": "70.2"
+        },
+        {
+          "-num": "58",
+          "personid": "228",
+          "name": "Wade Barrett",
+          "lastname": "Barrett",
+          "value": "70.2"
+        },
+        {
+          "-num": "59",
+          "personid": "345",
+          "name": "Richard Mulrooney",
+          "lastname": "Mulrooney",
+          "value": "70.2"
+        },
+        {
+          "-num": "60",
+          "personid": "322",
+          "name": "Mark Lisi",
+          "lastname": "Lisi",
+          "value": "70.2"
+        },
+        {
+          "-num": "61",
+          "personid": "360",
+          "name": "Mike Petke",
+          "lastname": "Petke",
+          "value": "69.8"
+        },
+        {
+          "-num": "62",
+          "personid": "310",
+          "name": "Chris Klein",
+          "lastname": "Klein",
+          "value": "69.8"
+        },
+        {
+          "-num": "63",
+          "personid": "382",
+          "name": "Jim Rooney",
+          "lastname": "Rooney",
+          "value": "69.7"
+        },
+        {
+          "-num": "64",
+          "personid": "414",
+          "name": "Robert Warzycha",
+          "lastname": "Warzycha",
+          "value": "69.7"
+        },
+        {
+          "-num": "65",
+          "personid": "376",
+          "name": "Milton Reyes",
+          "lastname": "Reyes",
+          "value": "69.3"
+        },
+        {
+          "-num": "66",
+          "personid": "546",
+          "name": "Paul Grafer",
+          "lastname": "Grafer",
+          "value": "69.2"
+        },
+        {
+          "-num": "67",
+          "personid": "328",
+          "name": "Tyrone Marshall",
+          "lastname": "Marshall",
+          "value": "69.2"
+        },
+        {
+          "-num": "68",
+          "personid": "335",
+          "name": "Matt McKeon",
+          "lastname": "McKeon",
+          "value": "69.0"
+        },
+        {
+          "-num": "69",
+          "personid": "401",
+          "name": "Daniel Torres",
+          "lastname": "Torres",
+          "value": "68.9"
+        },
+        {
+          "-num": "70",
+          "personid": "400",
+          "name": "Rick Titus",
+          "lastname": "Titus",
+          "value": "68.8"
+        },
+        {
+          "-num": "71",
+          "personid": "351",
+          "name": "Jesus Ochoa",
+          "lastname": "Ochoa",
+          "value": "68.6"
+        },
+        {
+          "-num": "72",
+          "personid": "229",
+          "name": "DaMarcus Beasley",
+          "lastname": "Beasley",
+          "value": "68.5"
+        },
+        {
+          "-num": "73",
+          "personid": "411",
+          "name": "Petter Villegas",
+          "lastname": "Villegas",
+          "value": "68.4"
+        },
+        {
+          "-num": "74",
+          "personid": "319",
+          "name": "Roy Lassiter",
+          "lastname": "Lassiter",
+          "value": "68.3"
+        },
+        {
+          "-num": "75",
+          "personid": "403",
+          "name": "Seth Trembly",
+          "lastname": "Trembly",
+          "value": "68.3"
+        },
+        {
+          "-num": "76",
+          "personid": "426",
+          "name": "Craig Ziadie",
+          "lastname": "Ziadie",
+          "value": "68.2"
+        },
+        {
+          "-num": "77",
+          "personid": "252",
+          "name": "Braeden Cloutier",
+          "lastname": "Cloutier",
+          "value": "68.0"
+        },
+        {
+          "-num": "78",
+          "personid": "251",
+          "name": "Mike Clark",
+          "lastname": "Clark",
+          "value": "67.8"
+        },
+        {
+          "-num": "79",
+          "personid": "292",
+          "name": "John Harkes",
+          "lastname": "Harkes",
+          "value": "67.8"
+        },
+        {
+          "-num": "80",
+          "personid": "326",
+          "name": "Brian Maisonneuve",
+          "lastname": "Maisonneuve",
+          "value": "67.7"
+        },
+        {
+          "-num": "81",
+          "personid": "236",
+          "name": "C.J. Brown",
+          "lastname": "Brown",
+          "value": "67.6"
+        },
+        {
+          "-num": "82",
+          "personid": "247",
+          "name": "Ronald Cerritos",
+          "lastname": "Cerritos",
+          "value": "67.5"
+        },
+        {
+          "-num": "83",
+          "personid": "420",
+          "name": "John Wilmar Perez",
+          "lastname": "Wilmar Perez",
+          "value": "67.5"
+        },
+        {
+          "-num": "84",
+          "personid": "232",
+          "name": "Carlos Bocanegra",
+          "lastname": "Bocanegra",
+          "value": "67.5"
+        },
+        {
+          "-num": "85",
+          "personid": "397",
+          "name": "Carey Talley",
+          "lastname": "Talley",
+          "value": "67.4"
+        },
+        {
+          "-num": "86",
+          "personid": "270",
+          "name": "Brian Dunseth",
+          "lastname": "Dunseth",
+          "value": "67.4"
+        },
+        {
+          "-num": "87",
+          "personid": "262",
+          "name": "Troy Dayak",
+          "lastname": "Dayak",
+          "value": "67.4"
+        },
+        {
+          "-num": "88",
+          "personid": "334",
+          "name": "Chad McCarty",
+          "lastname": "McCarty",
+          "value": "67.3"
+        },
+        {
+          "-num": "89",
+          "personid": "216",
+          "name": "Joe Addo",
+          "lastname": "Addo",
+          "value": "67.3"
+        },
+        {
+          "-num": "90",
+          "personid": "373",
+          "name": "Tab Ramos",
+          "lastname": "Ramos",
+          "value": "67.2"
+        },
+        {
+          "-num": "91",
+          "personid": "317",
+          "name": "Alexi Lalas",
+          "lastname": "Lalas",
+          "value": "67.2"
+        },
+        {
+          "-num": "92",
+          "personid": "412",
+          "name": "Craig Waibel",
+          "lastname": "Waibel",
+          "value": "67.1"
+        },
+        {
+          "-num": "93",
+          "personid": "254",
+          "name": "Bobby Convey",
+          "lastname": "Convey",
+          "value": "67.0"
+        },
+        {
+          "-num": "94",
+          "personid": "265",
+          "name": "Eric Denton",
+          "lastname": "Denton",
+          "value": "66.9"
+        },
+        {
+          "-num": "95",
+          "personid": "245",
+          "name": "Craig Capano",
+          "lastname": "Capano",
+          "value": "66.7"
+        },
+        {
+          "-num": "96",
+          "personid": "402",
+          "name": "Johnny Torres",
+          "lastname": "Torres",
+          "value": "66.7"
+        },
+        {
+          "-num": "97",
+          "personid": "291",
+          "name": "Diego Gutierrez",
+          "lastname": "Gutierrez",
+          "value": "66.5"
+        },
+        {
+          "-num": "98",
+          "personid": "413",
+          "name": "Billy Walsh",
+          "lastname": "Walsh",
+          "value": "66.4"
+        },
+        {
+          "-num": "99",
+          "personid": "315",
+          "name": "Jason Kreis",
+          "lastname": "Kreis",
+          "value": "66.3"
+        },
+        {
+          "-num": "100",
+          "personid": "341",
+          "name": "Jaime Moreno",
+          "lastname": "Moreno",
+          "value": "66.2"
+        },
+        {
+          "-num": "101",
+          "personid": "302",
+          "name": "Zak Ibsen",
+          "lastname": "Ibsen",
+          "value": "65.9"
+        },
+        {
+          "-num": "102",
+          "personid": "355",
+          "name": "Duncan Oughton",
+          "lastname": "Oughton",
+          "value": "65.9"
+        },
+        {
+          "-num": "103",
+          "personid": "255",
+          "name": "Ramiro Corrales",
+          "lastname": "Corrales",
+          "value": "65.7"
+        },
+        {
+          "-num": "104",
+          "personid": "273",
+          "name": "Marco Etcheverry",
+          "lastname": "Etcheverry",
+          "value": "65.4"
+        },
+        {
+          "-num": "105",
+          "personid": "261",
+          "name": "Brad Davis",
+          "lastname": "Davis",
+          "value": "65.4"
+        },
+        {
+          "-num": "106",
+          "personid": "359",
+          "name": "Orlando Perez",
+          "lastname": "Perez",
+          "value": "65.4"
+        },
+        {
+          "-num": "107",
+          "personid": "248",
+          "name": "Ted Chronopoulos",
+          "lastname": "Chronopoulos",
+          "value": "65.3"
+        },
+        {
+          "-num": "108",
+          "personid": "338",
+          "name": "Jason Moore",
+          "lastname": "Moore",
+          "value": "65.2"
+        },
+        {
+          "-num": "109",
+          "personid": "332",
+          "name": "Clint Mathis",
+          "lastname": "Mathis",
+          "value": "65.2"
+        },
+        {
+          "-num": "110",
+          "personid": "343",
+          "name": "Steve Morrow",
+          "lastname": "Morrow",
+          "value": "65.2"
+        },
+        {
+          "-num": "111",
+          "personid": "233",
+          "name": "Tenywa Bonseu",
+          "lastname": "Bonseu",
+          "value": "65.1"
+        },
+        {
+          "-num": "112",
+          "personid": "370",
+          "name": "Eric Quill",
+          "lastname": "Quill",
+          "value": "65.1"
+        },
+        {
+          "-num": "113",
+          "personid": "354",
+          "name": "Bo Oshoniyi",
+          "lastname": "Oshoniyi",
+          "value": "65.0"
+        },
+        {
+          "-num": "114",
+          "personid": "296",
+          "name": "Jay Heaps",
+          "lastname": "Heaps",
+          "value": "65.0"
+        },
+        {
+          "-num": "115",
+          "personid": "268",
+          "name": "Landon Donovan",
+          "lastname": "Donovan",
+          "value": "65.0"
+        },
+        {
+          "-num": "116",
+          "personid": "369",
+          "name": "Marvin Quijano",
+          "lastname": "Quijano",
+          "value": "64.9"
+        },
+        {
+          "-num": "117",
+          "personid": "405",
+          "name": "Joselito Vaca",
+          "lastname": "Vaca",
+          "value": "64.8"
+        },
+        {
+          "-num": "118",
+          "personid": "300",
+          "name": "Daniel Hernandez",
+          "lastname": "Hernandez",
+          "value": "64.8"
+        },
+        {
+          "-num": "119",
+          "personid": "234",
+          "name": "Paul Broome",
+          "lastname": "Broome",
+          "value": "64.8"
+        },
+        {
+          "-num": "120",
+          "personid": "316",
+          "name": "Manny Lagos",
+          "lastname": "Lagos",
+          "value": "64.8"
+        },
+        {
+          "-num": "121",
+          "personid": "542",
+          "name": "Henry Zambrano",
+          "lastname": "Zambrano",
+          "value": "64.8"
+        },
+        {
+          "-num": "122",
+          "personid": "361",
+          "name": "Rusty Pierce",
+          "lastname": "Pierce",
+          "value": "64.7"
+        },
+        {
+          "-num": "123",
+          "personid": "375",
+          "name": "Matt Reis",
+          "lastname": "Reis",
+          "value": "64.1"
+        },
+        {
+          "-num": "124",
+          "personid": "378",
+          "name": "Nick Rimando",
+          "lastname": "Rimando",
+          "value": "64.0"
+        },
+        {
+          "-num": "125",
+          "personid": "396",
+          "name": "Ryan Suarez",
+          "lastname": "Suarez",
+          "value": "64.0"
+        },
+        {
+          "-num": "126",
+          "personid": "260",
+          "name": "Sergi Daniv",
+          "lastname": "Daniv",
+          "value": "63.8"
+        },
+        {
+          "-num": "127",
+          "personid": "304",
+          "name": "Eddie Johnson",
+          "lastname": "Johnson",
+          "value": "63.8"
+        },
+        {
+          "-num": "128",
+          "personid": "267",
+          "name": "Birahim Diop",
+          "lastname": "Diop",
+          "value": "63.8"
+        },
+        {
+          "-num": "129",
+          "personid": "320",
+          "name": "Chris Leitch",
+          "lastname": "Leitch",
+          "value": "63.7"
+        },
+        {
+          "-num": "130",
+          "personid": "541",
+          "name": "Davy Arnaud",
+          "lastname": "Arnaud",
+          "value": "63.6"
+        },
+        {
+          "-num": "131",
+          "personid": "330",
+          "name": "Kyle Martino",
+          "lastname": "Martino",
+          "value": "63.6"
+        },
+        {
+          "-num": "132",
+          "personid": "392",
+          "name": "John Spencer",
+          "lastname": "Spencer",
+          "value": "63.4"
+        },
+        {
+          "-num": "133",
+          "personid": "297",
+          "name": "Chris Henderson",
+          "lastname": "Henderson",
+          "value": "63.3"
+        },
+        {
+          "-num": "134",
+          "personid": "408",
+          "name": "David Vaudreuil",
+          "lastname": "Vaudreuil",
+          "value": "63.2"
+        },
+        {
+          "-num": "135",
+          "personid": "353",
+          "name": "Ben Olsen",
+          "lastname": "Olsen",
+          "value": "63.2"
+        },
+        {
+          "-num": "136",
+          "personid": "547",
+          "name": "Dipsy Selolwane",
+          "lastname": "Selolwane",
+          "value": "63.2"
+        },
+        {
+          "-num": "137",
+          "personid": "544",
+          "name": "Jon Conway",
+          "lastname": "Conway",
+          "value": "62.9"
+        },
+        {
+          "-num": "138",
+          "personid": "224",
+          "name": "Stephen Armstrong",
+          "lastname": "Armstrong",
+          "value": "62.7"
+        },
+        {
+          "-num": "139",
+          "personid": "276",
+          "name": "Richard Farrer",
+          "lastname": "Farrer",
+          "value": "62.6"
+        },
+        {
+          "-num": "140",
+          "personid": "323",
+          "name": "Carlos Llamosa",
+          "lastname": "Llamosa",
+          "value": "62.6"
+        },
+        {
+          "-num": "141",
+          "personid": "287",
+          "name": "Luchi Gonzalez",
+          "lastname": "Gonzalez",
+          "value": "62.5"
+        },
+        {
+          "-num": "142",
+          "personid": "288",
+          "name": "Kelly Gray",
+          "lastname": "Gray",
+          "value": "62.4"
+        },
+        {
+          "-num": "143",
+          "personid": "365",
+          "name": "Preki Radosavljevic",
+          "lastname": "Radosavljevic",
+          "value": "62.1"
+        },
+        {
+          "-num": "144",
+          "personid": "283",
+          "name": "Scott Garlick",
+          "lastname": "Garlick",
+          "value": "62.0"
+        },
+        {
+          "-num": "145",
+          "personid": "303",
+          "name": "Danny Jackson",
+          "lastname": "Jackson",
+          "value": "61.9"
+        },
+        {
+          "-num": "146",
+          "personid": "422",
+          "name": "Josh Wolff",
+          "lastname": "Wolff",
+          "value": "61.4"
+        },
+        {
+          "-num": "147",
+          "personid": "398",
+          "name": "Abdul Thompson Conteh",
+          "lastname": "Thompson Conteh",
+          "value": "61.3"
+        },
+        {
+          "-num": "148",
+          "personid": "301",
+          "name": "Tim Howard",
+          "lastname": "Howard",
+          "value": "61.0"
+        },
+        {
+          "-num": "149",
+          "personid": "227",
+          "name": "Devin Barclay",
+          "lastname": "Barclay",
+          "value": "60.6"
+        },
+        {
+          "-num": "150",
+          "personid": "371",
+          "name": "Eliseo Quintanilla",
+          "lastname": "Quintanilla",
+          "value": "60.5"
+        },
+        {
+          "-num": "151",
+          "personid": "309",
+          "name": "Zach Kingsley",
+          "lastname": "Kingsley",
+          "value": "60.5"
+        },
+        {
+          "-num": "152",
+          "personid": "391",
+          "name": "Juergen Sommer",
+          "lastname": "Sommer",
+          "value": "60.5"
+        },
+        {
+          "-num": "153",
+          "personid": "306",
+          "name": "Cobi Jones",
+          "lastname": "Jones",
+          "value": "60.4"
+        },
+        {
+          "-num": "154",
+          "personid": "390",
+          "name": "Billy Sleeth",
+          "lastname": "Sleeth",
+          "value": "60.3"
+        },
+        {
+          "-num": "155",
+          "personid": "464",
+          "name": "Daouda Kante",
+          "lastname": "Kante",
+          "value": "60.3"
+        },
+        {
+          "-num": "156",
+          "personid": "384",
+          "name": "Ian Russell",
+          "lastname": "Russell",
+          "value": "60.3"
+        },
+        {
+          "-num": "157",
+          "personid": "377",
+          "name": "Bobby Rhine",
+          "lastname": "Rhine",
+          "value": "60.2"
+        },
+        {
+          "-num": "158",
+          "personid": "340",
+          "name": "Alejandro Moreno",
+          "lastname": "Moreno",
+          "value": "60.2"
+        },
+        {
+          "-num": "159",
+          "personid": "418",
+          "name": "Andy Williams",
+          "lastname": "Williams",
+          "value": "60.1"
+        },
+        {
+          "-num": "160",
+          "personid": "308",
+          "name": "Brian Kamler",
+          "lastname": "Kamler",
+          "value": "60.1"
+        },
+        {
+          "-num": "161",
+          "personid": "246",
+          "name": "Chris Carrieri",
+          "lastname": "Carrieri",
+          "value": "60.1"
+        },
+        {
+          "-num": "162",
+          "personid": "389",
+          "name": "Igor Simutenkov",
+          "lastname": "Simutenkov",
+          "value": "60.1"
+        },
+        {
+          "-num": "163",
+          "personid": "278",
+          "name": "Joe Franchino",
+          "lastname": "Franchino",
+          "value": "59.9"
+        },
+        {
+          "-num": "164",
+          "personid": "372",
+          "name": "Steve Ralston",
+          "lastname": "Ralston",
+          "value": "59.9"
+        },
+        {
+          "-num": "165",
+          "personid": "237",
+          "name": "Chris Brown",
+          "lastname": "Brown",
+          "value": "59.8"
+        },
+        {
+          "-num": "166",
+          "personid": "416",
+          "name": "Brian West",
+          "lastname": "West",
+          "value": "59.4"
+        },
+        {
+          "-num": "167",
+          "personid": "231",
+          "name": "Alex Bengard",
+          "lastname": "Bengard",
+          "value": "59.1"
+        },
+        {
+          "-num": "168",
+          "personid": "281",
+          "name": "Ian Fuller",
+          "lastname": "Fuller",
+          "value": "58.9"
+        },
+        {
+          "-num": "169",
+          "personid": "460",
+          "name": "Matt Behncke",
+          "lastname": "Behncke",
+          "value": "58.5"
+        },
+        {
+          "-num": "170",
+          "personid": "258",
+          "name": "Jim Curtin",
+          "lastname": "Curtin",
+          "value": "58.3"
+        },
+        {
+          "-num": "171",
+          "personid": "344",
+          "name": "Brian Mullan",
+          "lastname": "Mullan",
+          "value": "58.2"
+        },
+        {
+          "-num": "172",
+          "personid": "259",
+          "name": "Ali Curtis",
+          "lastname": "Curtis",
+          "value": "58.0"
+        },
+        {
+          "-num": "173",
+          "personid": "421",
+          "name": "John Wilson",
+          "lastname": "Wilson",
+          "value": "57.9"
+        },
+        {
+          "-num": "174",
+          "personid": "424",
+          "name": "Todd Yeagley",
+          "lastname": "Yeagley",
+          "value": "57.9"
+        },
+        {
+          "-num": "175",
+          "personid": "374",
+          "name": "Ante Razov",
+          "lastname": "Razov",
+          "value": "57.8"
+        },
+        {
+          "-num": "176",
+          "personid": "241",
+          "name": "Jon Busch",
+          "lastname": "Busch",
+          "value": "57.7"
+        },
+        {
+          "-num": "177",
+          "personid": "307",
+          "name": "Matt Jordan",
+          "lastname": "Jordan",
+          "value": "57.5"
+        },
+        {
+          "-num": "178",
+          "personid": "219",
+          "name": "Chris Albright",
+          "lastname": "Albright",
+          "value": "57.0"
+        },
+        {
+          "-num": "179",
+          "personid": "284",
+          "name": "Gary Glasgow",
+          "lastname": "Glasgow",
+          "value": "57.0"
+        },
+        {
+          "-num": "180",
+          "personid": "399",
+          "name": "Zach Thornton",
+          "lastname": "Thornton",
+          "value": "57.0"
+        },
+        {
+          "-num": "181",
+          "personid": "314",
+          "name": "David Kramer",
+          "lastname": "Kramer",
+          "value": "56.9"
+        },
+        {
+          "-num": "182",
+          "personid": "350",
+          "name": "Ronnie O'Brien",
+          "lastname": "O'Brien",
+          "value": "56.9"
+        },
+        {
+          "-num": "183",
+          "personid": "404",
+          "name": "Taylor Twellman",
+          "lastname": "Twellman",
+          "value": "56.6"
+        },
+        {
+          "-num": "184",
+          "personid": "394",
+          "name": "Hristo Stoitchkov",
+          "lastname": "Stoitchkov",
+          "value": "56.5"
+        },
+        {
+          "-num": "185",
+          "personid": "235",
+          "name": "Adin Brown",
+          "lastname": "Brown",
+          "value": "56.1"
+        },
+        {
+          "-num": "186",
+          "personid": "337",
+          "name": "Tony Meola",
+          "lastname": "Meola",
+          "value": "55.8"
+        },
+        {
+          "-num": "187",
+          "personid": "324",
+          "name": "Dennis Ludwig",
+          "lastname": "Ludwig",
+          "value": "55.6"
+        },
+        {
+          "-num": "188",
+          "personid": "275",
+          "name": "Rodrigo Faria",
+          "lastname": "Faria",
+          "value": "53.9"
+        },
+        {
+          "-num": "189",
+          "personid": "329",
+          "name": "Antonio Martinez",
+          "lastname": "Martinez",
+          "value": "53.8"
+        },
+        {
+          "-num": "190",
+          "personid": "417",
+          "name": "Evan Whitfield",
+          "lastname": "Whitfield",
+          "value": "53.7"
+        },
+        {
+          "-num": "191",
+          "personid": "289",
+          "name": "Ariel Graziani",
+          "lastname": "Graziani",
+          "value": "53.6"
+        },
+        {
+          "-num": "192",
+          "personid": "244",
+          "name": "Joe Cannon",
+          "lastname": "Cannon",
+          "value": "53.3"
+        },
+        {
+          "-num": "193",
+          "personid": "290",
+          "name": "Winston Griffiths",
+          "lastname": "Griffiths",
+          "value": "53.3"
+        },
+        {
+          "-num": "194",
+          "personid": "349",
+          "name": "Mike Nugent",
+          "lastname": "Nugent",
+          "value": "53.1"
+        },
+        {
+          "-num": "195",
+          "personid": "386",
+          "name": "Diego Serna",
+          "lastname": "Serna",
+          "value": "53.0"
+        },
+        {
+          "-num": "196",
+          "personid": "366",
+          "name": "Tom Presthus",
+          "lastname": "Presthus",
+          "value": "52.8"
+        },
+        {
+          "-num": "197",
+          "personid": "333",
+          "name": "Brian McBride",
+          "lastname": "McBride",
+          "value": "52.4"
+        },
+        {
+          "-num": "198",
+          "personid": "352",
+          "name": "Percy Olivares",
+          "lastname": "Olivares",
+          "value": "52.4"
+        },
+        {
+          "-num": "199",
+          "personid": "293",
+          "name": "Wolde Harris",
+          "lastname": "Harris",
+          "value": "52.3"
+        },
+        {
+          "-num": "200",
+          "personid": "321",
+          "name": "Darin Lewis",
+          "lastname": "Lewis",
+          "value": "51.9"
+        },
+        {
+          "-num": "201",
+          "personid": "277",
+          "name": "Sam Forko",
+          "lastname": "Forko",
+          "value": "51.5"
+        },
+        {
+          "-num": "202",
+          "personid": "274",
+          "name": "Dario Fabbro",
+          "lastname": "Fabbro",
+          "value": "51.4"
+        },
+        {
+          "-num": "203",
+          "personid": "239",
+          "name": "Edson Buddle",
+          "lastname": "Buddle",
+          "value": "51.3"
+        },
+        {
+          "-num": "204",
+          "personid": "285",
+          "name": "Gavin Glinton",
+          "lastname": "Glinton",
+          "value": "51.1"
+        },
+        {
+          "-num": "205",
+          "personid": "325",
+          "name": "Amos Magee",
+          "lastname": "Magee",
+          "value": "50.9"
+        },
+        {
+          "-num": "206",
+          "personid": "383",
+          "name": "Carlos Ruiz",
+          "lastname": "Ruiz",
+          "value": "50.7"
+        },
+        {
+          "-num": "207",
+          "personid": "454",
+          "name": "Freddy Garcia",
+          "lastname": "Garcia",
+          "value": "50.6"
+        },
+        {
+          "-num": "208",
+          "personid": "415",
+          "name": "Dante Washington",
+          "lastname": "Washington",
+          "value": "49.5"
+        },
+        {
+          "-num": "209",
+          "personid": "222",
+          "name": "Hamisi Amani-Dove",
+          "lastname": "Amani-Dove",
+          "value": "49.1"
+        },
+        {
+          "-num": "210",
+          "personid": "461",
+          "name": "D.J. Countess",
+          "lastname": "Countess",
+          "value": "48.6"
+        },
+        {
+          "-num": "211",
+          "personid": "368",
+          "name": "Santino Quaranta",
+          "lastname": "Quaranta",
+          "value": "47.6"
+        },
+        {
+          "-num": "212",
+          "personid": "423",
+          "name": "John Wolyniec",
+          "lastname": "Wolyniec",
+          "value": "47.1"
+        },
+        {
+          "-num": "213",
+          "personid": "263",
+          "name": "Dwayne De Rosario",
+          "lastname": "De Rosario",
+          "value": "46.3"
+        },
+        {
+          "-num": "214",
+          "personid": "242",
+          "name": "Carl Bussey",
+          "lastname": "Bussey",
+          "value": "46.3"
+        },
+        {
+          "-num": "215",
+          "personid": "257",
+          "name": "Jeff Cunningham",
+          "lastname": "Cunningham",
+          "value": "44.2"
+        },
+        {
+          "-num": "216",
+          "personid": "388",
+          "name": "Dustin Sheppard",
+          "lastname": "Sheppard",
+          "value": "42.4"
+        },
+        {
+          "-num": "217",
+          "personid": "266",
+          "name": "Mamadou Diallo",
+          "lastname": "Diallo",
+          "value": "41.4"
+        },
+        {
+          "-num": "218",
+          "personid": "221",
+          "name": "Byron Alvarez",
+          "lastname": "Alvarez",
+          "value": "37.0"
+        }
+      ]
+    }
+  }
+}

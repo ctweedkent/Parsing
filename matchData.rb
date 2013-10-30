@@ -1,8 +1,9 @@
 # Parse EHL Alumni Email List
 
-require 'mechanize'
 require 'json'
+require 'net/http'
 require 'mongo'
+require 'active_support/core_ext'
 
 include Mongo
 
@@ -25,26 +26,29 @@ def alreadyInserted entry
   return false
 end
 
-a = Mechanize.new
-a.user_agent_alias = 'Mac Safari'
-a.agent.redirect_ok = :all, true
-a.ssl_version = 'SSLv3'
-a.verify_mode = OpenSSL::SSL::VERIFY_NONE
+personId = 8209
+matchId = 12588
 
-a.get('http://tango.matchanalysis.com/index.jsp') do |page|
+# Get the xml page
+# finalUrl = 'http://tango.matchanalysis.com/match-player-data.jsp?statset=0-0-0-400&matchid=' + matchId.to_s + '&personid=' + personId.to_s
+finalUrl = 'http://tango.matchanalysis.com/match-player-data.jsp'
+params = { :statset =>  '0-0-0-400', :matchid => '12588', :personid => 8209 }
+url = URI.parse(finalUrl)
+url.query = URI.encode_www_form( params )
+req = Net::HTTP::Get.new(url.path)
+res = Net::HTTP.start(url.host, url.port) {|http|
+  http.request(req)
+}
 
-  # Submit the login form
-  my_page = page.form_with(:name => 'login') do |f|
-    f.j_username  = 'egehrig'
-    f.j_password  = 'look888'
-  end.click_button
+print res.body
 
-  a.get('http://tango.matchanalysis.com/match-player.jsp?matchid=126&personid=216&teamid=&statset=0-0-0-1') do |player_page|
+# jsonPoss = Hash.from_xml(res.body).to_json
 
-    
+# row = jsonPoss['doc']['ROWSET']['ROW']
 
-  end
+# row.each do |player|
+#   puts player['value']
+# end
 
-end
 
 
