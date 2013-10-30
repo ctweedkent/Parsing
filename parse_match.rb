@@ -17,6 +17,8 @@ a.get('http://tango.matchanalysis.com/index.jsp') do |page|
     f.j_password  = 'look888'
   end.click_button
 
+  matches = Array.new()
+
   a.get('/player-match-list.jsp?personid=17995&teamid=&statset=0-0-0-400') do |page|
 
     page.links.each do |link|
@@ -26,12 +28,18 @@ a.get('http://tango.matchanalysis.com/index.jsp') do |page|
     next unless text == "details"
     
     matchid = address.split('matchid=')[1].split('&personid=')[0]
-    puts matchid
+    
+    matches.push(matchid)
     
     end   
+  end
 
+  matches.each do |match|
+    puts match
   end
 
 end
+
+
 
 
